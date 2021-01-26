@@ -1,15 +1,15 @@
 ## Hi there 👋
 
 
-- **Name**: 'Gabriel',
+- **Name**: Gabriel Porto,
 
-- **E-mail**: 'gr_porto@hotmail.com',
+- **E-mail**: gr_porto@hotmail.com,
 
-- **Graduated**: 'computer science',
+- **Graduated**: Computer science,
 
-- **Nickname**: 'gporto95',
+- **Nickname**: gporto95,
 
-- **Role**: 'backend developer'
+- **Role**: Backend developer
 
 ## Skills
 - **C#**: true,
