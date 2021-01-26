@@ -9,10 +9,7 @@
 
 - **Nickname**: 'gporto95',
 
-- **Role**: 'backend developer',
-
-- **CurrentlyLearning**: 'c#',
-
+- **Role**: 'backend developer'
 
 ## Skills
 - **C#**: true,
