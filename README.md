@@ -1,30 +1,30 @@
 ## Hi there 👋
 
 
-- **Name**: Gabriel Porto,
+- **Name**: Gabriel Porto
 
-- **E-mail**: gr_porto@hotmail.com,
+- **E-mail**: gr_porto@hotmail.com
 
-- **Graduated**: Computer science,
+- **Graduated**: Computer science
 
-- **Nickname**: gporto95,
+- **Nickname**: gporto95
 
 - **Role**: Backend developer
 
 ## Skills
-- **C#**: true,
+- **C#**: true
       
-- **Dot net**: true,
+- **Dot net**: true
       
-- **API**: true,
+- **API**: true
       
-- **Agile Methodologies**: true,
+- **Agile Methodologies**: true
       
-- **SQL**: true,
+- **SQL**: true
       
-- **Git**: true,
+- **Git**: true
       
-- **Advpl**: true,
+- **Advpl**: true
       
 - **Angular**: true      
    
