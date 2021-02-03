@@ -23,6 +23,8 @@
 - **SQL**: true
       
 - **Git**: true
+
+- **GitHub Actions**: true
       
 - **Advpl**: true
       
