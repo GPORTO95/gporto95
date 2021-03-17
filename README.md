@@ -28,7 +28,11 @@
       
 - **Advpl**: true
       
-- **Angular**: true      
+- **Angular**: true   
+
+- **VueJS**: true
+
+- **Jenkins**: true
    
 🔥 Always learnig!
 
