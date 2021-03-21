@@ -14,25 +14,23 @@
 ## Skills
 - **C#**: true
       
-- **Dot net**: true
+- **.Net Core**: true
       
 - **API**: true
+
+- **Xamarim**: true
       
 - **Agile Methodologies**: true
       
-- **SQL**: true
+- **SQL Server**: true
       
-- **Git**: true
-
-- **GitHub Actions**: true
+- **Git && GithHub**: true
       
 - **Advpl**: true
       
 - **Angular**: true   
 
 - **VueJS**: true
-
-- **Jenkins**: true
    
 🔥 Always learnig!
 
