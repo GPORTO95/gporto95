@@ -9,7 +9,7 @@
 
 - **Nickname**: gporto95
 
-- **Role**: Backend developer
+- **Role**: Fullstack developer
 
 ## Skills
 - **C#**: true
@@ -20,17 +20,19 @@
 
 - **Xamarim**: true
       
-- **Agile Methodologies**: true
-      
 - **SQL Server**: true
       
 - **Git && GithHub**: true
+
+- **Azure Repos**: true
       
 - **Advpl**: true
       
 - **Angular**: true   
 
 - **VueJS**: true
+
+- **Agile Methodologies**: true
    
 🔥 Always learnig!
 
