@@ -17,9 +17,7 @@
 - **.Net Core**: true
 
 - **Node.js**: true
-      
-- **Xamarim**: true
-      
+
 - **SQL Server**: true
 
 - **MongoDB**: true
@@ -29,6 +27,12 @@
 - **Azure Repos**: true
       
 - **Advpl**: true
+
+- **HTML**: true
+
+- **CSS**: true
+
+- **Bootsrap**: true
       
 - **Angular**: true   
 
