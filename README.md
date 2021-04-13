@@ -24,13 +24,11 @@
       
 - **Git && GithHub**: true
 
-- **Azure Repos**: true
-      
-- **Advpl**: true
+- **Azure**: true
 
-- **HTML**: true
+- **HTML5**: true
 
-- **CSS**: true
+- **CSS3**: true
 
 - **Bootsrap**: true
       
