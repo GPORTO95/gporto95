@@ -16,11 +16,13 @@
       
 - **.Net Core**: true
 
-- **Node JS**: true
+- **Node.js**: true
       
 - **Xamarim**: true
       
 - **SQL Server**: true
+
+- **MongoDB**: true
       
 - **Git && GithHub**: true
 
