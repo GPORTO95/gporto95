@@ -22,7 +22,7 @@
 
 - **MongoDB**: true
       
-- **Git && GithHub**: true
+- **Git & GithHub**: true
 
 - **Azure**: true
 
