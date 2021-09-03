@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel Porto</h1>
-<h3 align="center">Backend Developer</h3>
-<p align="center">
+<h3 align="center">BACKEND DEVELOPER</h3>
+<!--<p align="center">
 <a href="https://linkedin.com/in/gabriel-porto-705165109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-porto-705165109" height="20" width="30" /></a>
-</p>
+</p>-->
 
 ## About me
 - 💻 Software Developer since 2017, Back-End most time
