@@ -17,7 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/-05122A?style=flat&logo=typescript)
 
   ![.NET](https://img.shields.io/badge/-05122A?style=flat&logo=dotnet)
-  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+  ![Node.js](https://img.shields.io/badge/-05122A?style=flat&logo=node.js)
  
   ![Angular](https://img.shields.io/badge/-05122A?style=flat&logo=angular&logoColor=red)
   ![Vue](https://img.shields.io/badge/-05122A?style=flate&logo=vue.js&logoColor=4FC08D)
