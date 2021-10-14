@@ -22,6 +22,8 @@
   ![Angular](https://img.shields.io/badge/-05122A?style=flat&logo=angular&logoColor=red)
   ![Vue](https://img.shields.io/badge/-05122A?style=flate&logo=vue.js&logoColor=4FC08D)
   ![JQuery](https://img.shields.io/badge/-05122A?style=flate&logo=jquery&logoColor=blue)
+  ![Sass](https://img.shields.io/badge/-05122A?style=flat&logo=sass)
+  ![Bootstrap](https://img.shields.io/badge/-05122A?style=flat&logo=bootstrap)
 
   ![Git](https://img.shields.io/badge/-05122A?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-05122A?style=flat&logo=github)
@@ -30,12 +32,11 @@
   ![MongoDb](https://img.shields.io/badge/-05122A?style=flat&logo=mongodb&logoColor=green)
   ![Redis](https://img.shields.io/badge/-05122A?style=flat&logo=redis)
   ![Docker](https://img.shields.io/badge/-05122A?style=flat&logo=docker)
-  ![Postman](https://img.shields.io/badge/-05122A?logo=postman)
 <!--
 ### Enviroment, IDEs and Tools
-  ![Visual Studio Community/Enterprise](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio-code&logoColor=7e10cc)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![Visual Studio](https://img.shields.io/badge/-05122A?style=flat&logo=visualstudio&logoColor=7e10cc)
+  ![Visual Studio Code](https://img.shields.io/badge/-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
+  ![Postman](https://img.shields.io/badge/-05122A?logo=postman)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gporto95&layout=compact&theme=tokyonight)
