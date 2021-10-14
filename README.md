@@ -3,6 +3,7 @@
 <!--<p align="center">
 <a href="https://linkedin.com/in/gabriel-porto-705165109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-porto-705165109" height="20" width="30" /></a>
 </p>-->
+<!--![VisitorHit](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=GPORTO95&repo=GPORTO95&countColor=%23f4b241)-->
 
 ## About me
 - 💻 Software Developer since 2017, Back-End most time
