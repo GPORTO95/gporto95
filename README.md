@@ -15,11 +15,15 @@
   ![C#](https://img.shields.io/badge/-05122A?style=flat&logo=CSharp&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-05122A?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-05122A?style=flat&logo=typescript)
+  
+  ![RabbitMQ](https://img.shields.io/badge/-05122A?style=flat&logo=rabbitmq)
+  
 
   ![.NET](https://img.shields.io/badge/-05122A?style=flat&logo=dotnet)
   ![Node.js](https://img.shields.io/badge/-05122A?style=flat&logo=node.js)
  
   ![Angular](https://img.shields.io/badge/-05122A?style=flat&logo=angular&logoColor=red)
+  ![ReactJS](https://img.shields.io/badge/-05122A?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-05122A?style=flate&logo=vue.js&logoColor=4FC08D)
   ![JQuery](https://img.shields.io/badge/-05122A?style=flate&logo=jquery&logoColor=blue)
   ![Sass](https://img.shields.io/badge/-05122A?style=flat&logo=sass)
@@ -29,6 +33,7 @@
   ![GitHub](https://img.shields.io/badge/-05122A?style=flat&logo=github)
   ![AzureDevOps](https://img.shields.io/badge/-05122A?style=flat&logo=azuredevops&logoColor=blue)
   ![SQL](https://img.shields.io/badge/-05122A?style=flat&logo=microsoft-sql-server&logoColor=red)
+  ![Postgresql](https://img.shields.io/badge/-05122A?style=flat&logo=postgresql)
   ![MongoDb](https://img.shields.io/badge/-05122A?style=flat&logo=mongodb&logoColor=green)
   ![Redis](https://img.shields.io/badge/-05122A?style=flat&logo=redis)
   ![Docker](https://img.shields.io/badge/-05122A?style=flat&logo=docker)
