@@ -17,6 +17,7 @@
   ![TypeScript](https://img.shields.io/badge/-05122A?style=flat&logo=typescript)
   
   ![RabbitMQ](https://img.shields.io/badge/-05122A?style=flat&logo=rabbitmq)
+  ![Kafka](https://img.shields.io/badge/-05122A?style=flat&logo=apache-kafka)
   
 
   ![.NET](https://img.shields.io/badge/-05122A?style=flat&logo=dotnet)
