@@ -43,8 +43,8 @@
   ![Visual Studio](https://img.shields.io/badge/-05122A?style=flat&logo=visualstudio&logoColor=7e10cc)
   ![Visual Studio Code](https://img.shields.io/badge/-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-05122A?logo=postman)
-  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
   ![Notion](https://img.shields.io/badge/-05122A?logo=notion)
+  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gporto95&layout=compact&theme=tokyonight)
    
