@@ -48,7 +48,11 @@
   ![Notion](https://img.shields.io/badge/-05122A?logo=notion)
   ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gporto95&layout=compact&theme=tokyonight)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gporto95&layout=compact&theme=tokyonight)-->
+<a href="https://github.com/gporto95">
+  <img src="https://github-readme-stats.vercel.app/api?username=gporto95&count_private=true&show_icons=true" />
+</a>
+
    
 🔥 Always learnig!
 
