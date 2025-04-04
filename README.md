@@ -7,12 +7,14 @@
 
 ## About me
 - 💻 Software Developer since 2017, Back-End most time
-- 🎓 Computer Science graduate
+- 🎓 Bachelor's degree in Computer Science
+- 🎓 Postgraduate degree in Software Architecture.
 - 💼 Currently working at <a href="https://www.cacaushow.com.br/">Cacau Show</a>
 - 📫 How to reach me **gr_porto@hotmail.com**
 
 ## Languages & Tools 🛠️
-  ![C#](https://img.shields.io/badge/-05122A?style=flat&logo=CSharp&logoColor=7e10cc)
+( C# | .NET | JAVA | SPRING BOOT | ANGULAR | TYPESCRIPT | SQL | MONGODB | REDIS )
+  <!-- ![C#](https://img.shields.io/badge/-05122A?style=flat&logo=CSharp&logoColor=7e10cc)
   ![JavaScript](https://img.shields.io/badge/-05122A?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-05122A?style=flat&logo=typescript)
   
@@ -44,7 +46,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-05122A?style=flat&logo=visualstudiocode&logoColor=007ACC)
   ![Postman](https://img.shields.io/badge/-05122A?logo=postman)
   ![Notion](https://img.shields.io/badge/-05122A?logo=notion)
-  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows)
+  ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gporto95&layout=compact&theme=tokyonight)
    
